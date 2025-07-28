@@ -1,0 +1,10 @@
+THIS REPO IS CREATED WITH AN INTENTION TO LEARN ALL POSSIBLE EXAMPLES OR USECASES THAT A QA WILL ENCOUNTER IN ANY SOFTWARE TESTING LIFE CYCLE.
+
+Below are the items that will be covered as part of this repo of ROBOTFRAMEWORK:
+
+1. Full functional framework with a typical structure to support UI and API test cases
+2. segregated keywords and resources
+3. custom python libraries and utlities
+4. integration to CICD jenkins
+5. Dockerisation
+6. Selenium and requests library coverage
