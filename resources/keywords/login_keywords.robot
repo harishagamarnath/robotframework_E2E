@@ -16,6 +16,6 @@ Click on Login Button
 
 Asset Home Page
     Wait Until Element Is Visible       class=welcome-message
-    Element Should Be Visible           class=welcome-message
+    Element Should Be Visible           class=welcome-messag
 
 
